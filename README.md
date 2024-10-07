@@ -3,6 +3,10 @@
 企业微信-会话内容存档PHP扩展
 
 注意 ： 扩展包 一定要和C语言SDK 文件版本一致
+
+配合composer 使用
+composer 命令
+composer require jiuyueyun/composer-wework-finance-sdk
 ## 依赖
 企业微信提供的sdk;
 
